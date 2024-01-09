@@ -1,4 +1,4 @@
-# Snap
+# Vsnap
 Full Stack MERN Social Media Application
 
 Setup:
